@@ -8,5 +8,7 @@ public class Main {
         Numbers numbers = new Numbers();
 
         numbers.showNumbersWhile();
+        System.out.println();
+        numbers.showNumbersDoWhile();
     }
 }
